@@ -1,5 +1,5 @@
 r = 1
-while r <= 5:
+while r < 6:
     c = 1
     while c <=r:
         print ( "*" , end="")
