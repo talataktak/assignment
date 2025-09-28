@@ -6,3 +6,4 @@ while r < 6:
         c+= 1
     print ()
     r+= 1
+print ("loop ended") 
